@@ -1,4 +1,4 @@
-# Automated-EEG-Signal-Based-Sleep-State-Classification
+# Automated EEG Signal-Based Sleep State Classification
 
 This project aims to classify different sleep states from EEG signal recordings through the use of machine and deep learning models.
 
