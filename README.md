@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.10-blue">
-  <img src="https://img.shields.io/badge/TensorFlow-DeepLearning-green">
+  <img src="https://img.shields.io/badge/TensorFlow-DeepLearning-blue">
 </p>
 
 ## Overview
