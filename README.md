@@ -1,5 +1,11 @@
 # Automated EEG Signal-Based Sleep State Classification and Analysis
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.10-blue">
+  <img src="https://img.shields.io/badge/TensorFlow-DeepLearning-orange">
+  <img src="https://img.shields.io/badge/Status-Complete-success">
+</p>
+
 ## Overview
 This project presents an automated approach for
 sleep stage classification using electroencephalogram (EEG) signals from the PhysioNet Sleep-EDF Expanded dataset. Manually
@@ -80,5 +86,3 @@ stages such as N3 and REM are essential for assessing sleep
 quality and supporting diagnosis of sleep disorders. The improvements demonstrated in this work highlight the potential
 of deep learning methods for scalable and consistent sleep
 analysis
-
-![Python](https://img.shields.io/badge/Python-3.10-blue)
