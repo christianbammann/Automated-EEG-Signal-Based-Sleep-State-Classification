@@ -65,3 +65,22 @@ Run the notebooks in the 'training/' directory:
 ## Dataset
 Link to PhysioNet Sleep-EDF Expanded Dataset: [Sleep-EDF Dataset](https://physionet.org/content/sleep-edfx/1.0.0/)
 
+## Conclusion
+
+This work presents an automated approach for sleep stage
+classification using both classical machine learning models and
+a 1D convolutional neural network. The 1D-CNN achieved the
+best overall performance, with notable improvements in macro
+F1-score and balanced accuracy, demonstrating its ability to
+better handle class imbalances and capture complex EEG
+signal patterns.
+While the model shows strong performance, particularly in
+the Wake and N2 stages, the N1 stage remains a key challenge
+to classify due to its transitional and ambiguous nature. These
+results emphasize that performance evaluation should prioritize class-balanced metrics and clinically meaningful outcomes
+rather than overall accuracy alone.
+From a clinical standpoint, accurate classification of sleep
+stages such as N3 and REM are essential for assessing sleep
+quality and supporting diagnosis of sleep disorders. The improvements demonstrated in this work highlight the potential
+of deep learning methods for scalable and consistent sleep
+analysis
