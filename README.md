@@ -1,6 +1,22 @@
 # Automated EEG Signal-Based Sleep State Classification and Analysis
 
-This project presents an automated approach for sleep stage classification using electroencephalogram (EEG) signals from the PhysioNet Sleep-EDF Expanded dataset.
+This project presents an automated approach for
+sleep stage classification using electroencephalogram (EEG) signals from the PhysioNet Sleep-EDF Expanded dataset. Manually
+scoring these signals is time-consuming and subject to variability,
+motivating the use of machine learning for automation. In this
+work, classical models (Support Vector Machine and Random
+Forest) and a 1D Convolutional Neural Network (1D-CNN) are
+used to classify 30-second EEG epochs into five sleep stages:
+Wake, N1, N2, N3, and REM. EEG signals were preprocessed
+and segmented, with handcrafted features extracted for classical
+models, while the 1D-CNN operated directly on raw EEG signals.
+Performance was evaluated using accuracy, balanced accuracy,
+and macro F1-score. Results show that the 1D-CNN outperforms classical methods, particularly in minority classes such
+as REM, while N1 remains the most challenging stage due to its
+transitional nature. These findings demonstrate the effectiveness
+of deep learning for EEG-based sleep staging and highlight
+areas for improvement, including handling class imbalances and
+incorporating temporal modeling.
 
 ---
 
