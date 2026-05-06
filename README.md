@@ -32,10 +32,11 @@ This project presents an automated approach for sleep stage classification using
 
 ---
 
-## Table II:  Per-Class F1 Performance Comparison
+## Table II: Per-Class F1 Performance Comparison
 
-| Model                               | Wake    | N1  | N2                   | N3 | REM|
-|-------------------------------------|-----------------------------|-----------------------------|-----------------------------|
-| SVM              | 94.0%                      | 28.6%                      | 84.4%                       | 80.6% | 52.9% |
-| RF       | 92.2%                       | 72.0%                       | 74.4%                       |  80.6% | 52.9% |
-| 1D-CNN   | 93.0%                      | 83.3%                      | 79.9%                       | 80.6% | 52.9% |
+| Model   | Wake  | N1    | N2    | N3    | REM   |
+|---------|-------|-------|-------|-------|-------|
+| SVM     | 94.0% | 28.6% | 84.4% | 80.6% | 52.9% |
+| RF      | 95.6% | 28.0% | 84.5% | 82.9% | 66.3% |
+| 1D-CNN  | 98.7% | 37.4% | 88.0% | 86.4% | 77.7% |
+
