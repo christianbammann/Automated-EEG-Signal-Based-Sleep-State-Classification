@@ -33,6 +33,12 @@ incorporating temporal modeling.
 | `report.pdf`                                                                             | IEEE-style Report                                              |
 | `requirements.txt`                                                                       | List of required dependencies                                            |
 
+## Running the Project
+Run the notebooks in the 'training/' directory:
+- 'classical_eeg.ipynb'
+- 'cnn_eeg.ipynb'
+
+
 ## Table I:  Overall Model Performance Comparison
 
 | Model                               | Acc    | Balanced Acc   | Macro F1                    | 
