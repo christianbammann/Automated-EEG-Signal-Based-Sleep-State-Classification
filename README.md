@@ -1,5 +1,8 @@
 # Automated EEG Signal-Based Sleep State Classification and Analysis
 
+---
+
+## Overview
 This project presents an automated approach for
 sleep stage classification using electroencephalogram (EEG) signals from the PhysioNet Sleep-EDF Expanded dataset. Manually
 scoring these signals is time-consuming and subject to variability,
@@ -32,8 +35,8 @@ incorporating temporal modeling.
 | `figures`                                                                                | Folder containing visualization figures                      |
 | `outputs`                                                                                | Folder containing metrics and plots for each model                            |
 | `training`                                                                               | Folder containing all Python training notebooks                                |
-| `report.pdf`                 | IEEE-style Report                                              |
 | `README.md`                                                                              | Project Overview                                             |
+| `report.pdf`                                                                             | IEEE-style Report                                              |
 | `requirements.txt`                                                                       | List of required dependencies                                            |
 
 ---
