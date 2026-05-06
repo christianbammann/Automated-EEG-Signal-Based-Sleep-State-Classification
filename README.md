@@ -24,7 +24,7 @@ This project presents an automated approach for sleep stage classification using
 
 ## Table I:  Overall Model Performance Comparison
 
-| Model                               | Accuracy    | Balanced Accuracy   | Macro F1-Score                    | 
+| Model                               | Acc    | Balanced Acc   | Macro F1                    | 
 |-------------------------------------|-----------------------------|-----------------------------|-----------------------------|
 | SVM              | 86.9%                      | 79.6%                      | 72.1%                       |
 | RF       | 92.2%                       | 72.0%                       | 74.4%                       |
