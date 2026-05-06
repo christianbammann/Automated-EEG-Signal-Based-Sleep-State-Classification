@@ -7,6 +7,8 @@ This project presents an automated approach for sleep stage classification using
 ## Authors
 - **Christian Bammann** – Contributor of all data preprocessing, SVM/RF/CNN model development, experimentation, evalutation, and report/presentation preparation.
 
+---
+
 ## Contents
 
 | File                                                                                     | Description                                                 |
@@ -17,3 +19,23 @@ This project presents an automated approach for sleep stage classification using
 | `report.pdf`                 | IEEE-style Report                                              |
 | `README.md`                                                                              | Project Overview                                             |
 | `requirements.txt`                                                                       | List of required dependencies                                            |
+
+---
+
+## Table I:  Overall Model Performance Comparison
+
+| Model                               | Accuracy    | Balanced Accuracy   | Macro F1-Score                    | 
+|-------------------------------------|-----------------------------|-----------------------------|-----------------------------|
+| SVM              | 86.9%                      | 79.6%                      | 72.1%                       |
+| RF       | 92.2%                       | 72.0%                       | 74.4%                       |
+| 1D-CNN   | 93.0%                      | 83.3%                      | 79.9%                       |
+
+---
+
+## Table II:  Per-Class F1 Performance Comparison
+
+| Model                               | Accuracy    | Balanced Accuracy   | Macro F1-Score                    | 
+|-------------------------------------|-----------------------------|-----------------------------|-----------------------------|
+| SVM              | 86.9%                      | 79.6%                      | 72.1%                       |
+| RF       | 92.2%                       | 72.0%                       | 74.4%                       |
+| 1D-CNN   | 93.0%                      | 83.3%                      | 79.9%                       |
