@@ -14,6 +14,6 @@ This project presents an automated approach for sleep stage classification using
 | `figures`                                                                                | Folder containing visualization figures                      |
 | `outputs`                                                                                | Folder containing metrics and plots for each model                            |
 | `training`                                                                               | Folder containing all Python training notebooks                                |
-| `Automated_EEG_Signal_Based_Sleep_State_Classification_and_Analysis.pdf`                 | IEEE-style Report                                              |
+| `report.pdf`                 | IEEE-style Report                                              |
 | `README.md`                                                                              | Project Overview                                             |
 | `requirements.txt`                                                                       | List of required dependencies                                            |
