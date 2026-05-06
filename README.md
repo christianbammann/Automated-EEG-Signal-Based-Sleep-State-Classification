@@ -42,8 +42,8 @@ incorporating temporal modeling.
 
 ## Running the Project
 Run the notebooks in the 'training/' directory:
-- 'classical_eeg.ipynb'
-- 'cnn_eeg.ipynb'
+- `classical_eeg.ipynb`
+- `cnn_eeg.ipynb`
 
 
 ## Table I:  Overall Model Performance Comparison
