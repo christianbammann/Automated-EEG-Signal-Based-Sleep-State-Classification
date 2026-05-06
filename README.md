@@ -34,7 +34,7 @@ incorporating temporal modeling.
 | `requirements.txt`                                                                       | List of required dependencies                                            |
 
 ## Dataset
-[Sleep-EDF Dataset](https://physionet.org/content/sleep-edfx/1.0.0/)
+Link to PhysioNet Sleep-EDF Expanded Dataset: [Sleep-EDF Dataset](https://physionet.org/content/sleep-edfx/1.0.0/)
 
 ## Table I:  Overall Model Performance Comparison
 
