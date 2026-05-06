@@ -18,7 +18,7 @@ transitional nature.
 ![REM](figures/rem.png)
 
 <p align="center">
-  <em>Figure 1. 30-second Epoch Segment - REM.</em>
+  <em>Figure 1. 30-second Epoch Segment - REM</em>
 </p>
 
 
