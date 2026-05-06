@@ -1,0 +1,47 @@
+{
+  "run_id": "04-29-2026_12-14-19_pm_est_svm_rf_baseline",
+  "dataset": {
+    "total_epochs": 109217,
+    "n_features": 11,
+    "train_epochs": 87373,
+    "val_epochs": 21844
+  },
+  "models": {
+    "SVM": {
+      "overall": {
+        "accuracy": "86.9%",
+        "balanced_accuracy": "79.6%",
+        "macro_f1": "72.1%",
+        "cohen_kappa": 0.757
+      },
+      "per_stage_f1": {
+        "Wake": "94.6%",
+        "N1": "31.5%",
+        "N2": "86.4%",
+        "N3": "84.6%",
+        "REM": "63.4%"
+      }
+    },
+    "RF": {
+      "overall": {
+        "accuracy": "92.2%",
+        "balanced_accuracy": "72.0%",
+        "macro_f1": "74.4%",
+        "cohen_kappa": 0.838
+      },
+      "per_stage_f1": {
+        "Wake": "97.0%",
+        "N1": "25.8%",
+        "N2": "88.3%",
+        "N3": "87.6%",
+        "REM": "73.2%"
+      }
+    }
+  },
+  "winners": {
+    "overall_accuracy": "RF",
+    "balanced_accuracy": "SVM",
+    "macro_f1": "RF",
+    "cohen_kappa": "RF"
+  }
+}
