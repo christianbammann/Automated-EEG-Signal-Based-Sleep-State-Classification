@@ -19,7 +19,7 @@ of deep learning for EEG-based sleep staging and highlight
 areas for improvement, including handling class imbalances and
 incorporating temporal modeling.
 
-![EEG Epochs](figures/epochs.png)
+![REM](figures/rem.png)
 
 ## Authors
 - **Christian Bammann** – Contributor of all data preprocessing, SVM/RF/CNN model development, experimentation, evalutation, and report/presentation preparation.
