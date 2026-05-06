@@ -21,6 +21,15 @@ incorporating temporal modeling.
 
 ![REM](figures/rem.png)
 
+<p align="center">
+  <img src="figures/rem.png" width="500">
+</p>
+
+<p align="center">
+  <em>Figure 1. REM Epoch.</em>
+</p>
+
+
 ## Authors
 - **Christian Bammann** – Contributor of all data preprocessing, SVM/RF/CNN model development, experimentation, evalutation, and report/presentation preparation.
 
