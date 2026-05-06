@@ -1,6 +1,6 @@
-# Automated EEG Signal-Based Sleep State Classification
+# Automated EEG Signal-Based Sleep State Classification and Analysis
 
-This project aims to classify different sleep states from EEG signal recordings through the use of machine and deep learning models.
+This project presents an automated approach for sleep stage classification using electroencephalogram (EEG) signals from the PhysioNet Sleep-EDF Expanded dataset.
 
 ---
 
