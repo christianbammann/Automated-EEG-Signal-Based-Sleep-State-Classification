@@ -22,7 +22,7 @@ incorporating temporal modeling.
 ![REM](figures/rem.png)
 
 <p align="center">
-  <em>Figure 1. REM Epoch.</em>
+  <em>Figure 1. REM 30-second Epoch Segment.</em>
 </p>
 
 
