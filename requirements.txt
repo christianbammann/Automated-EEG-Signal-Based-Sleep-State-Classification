@@ -1,0 +1,19 @@
+# Core notebook/runtime dependencies for the EEG classification notebooks.
+ipykernel==7.2.0
+
+# Signal processing and scientific computing
+mne==1.12.0
+numpy==2.4.4
+scipy==1.17.1
+
+# Plotting
+matplotlib==3.10.8
+
+# Classical machine learning
+imbalanced-learn==0.14.1
+joblib==1.5.3
+scikit-learn==1.8.0
+
+# CNN notebook dependency. Left unpinned because it was not installed in the
+# local .venv freeze and TensorFlow wheels vary by Python/platform.
+tensorflow
