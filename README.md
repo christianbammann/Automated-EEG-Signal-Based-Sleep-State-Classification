@@ -80,3 +80,5 @@ stages such as N3 and REM are essential for assessing sleep
 quality and supporting diagnosis of sleep disorders. The improvements demonstrated in this work highlight the potential
 of deep learning methods for scalable and consistent sleep
 analysis
+
+![Python](https://img.shields.io/badge/Python-3.10-blue)
