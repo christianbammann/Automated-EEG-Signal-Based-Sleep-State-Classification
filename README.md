@@ -1,7 +1,5 @@
 # Automated EEG Signal-Based Sleep State Classification and Analysis
 
----
-
 ## Overview
 This project presents an automated approach for
 sleep stage classification using electroencephalogram (EEG) signals from the PhysioNet Sleep-EDF Expanded dataset. Manually
@@ -20,8 +18,6 @@ transitional nature. These findings demonstrate the effectiveness
 of deep learning for EEG-based sleep staging and highlight
 areas for improvement, including handling class imbalances and
 incorporating temporal modeling.
-
----
 
 ## Authors
 - **Christian Bammann** – Contributor of all data preprocessing, SVM/RF/CNN model development, experimentation, evalutation, and report/presentation preparation.
