@@ -5,4 +5,4 @@ This project presents an automated approach for sleep stage classification using
 ---
 
 ## Authors
-- **Christian Bammann** – Contributor of data preprocessing, model development, and author of the written final project report.  
+- **Christian Bammann** – Contributor of all data preprocessing, SVM/RF/CNN model development, experimentation, evalutation, and report/presentation preparation.
