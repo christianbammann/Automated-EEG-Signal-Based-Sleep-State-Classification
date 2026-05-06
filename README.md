@@ -33,9 +33,6 @@ incorporating temporal modeling.
 | `report.pdf`                                                                             | IEEE-style Report                                              |
 | `requirements.txt`                                                                       | List of required dependencies                                            |
 
-## Dataset
-Link to PhysioNet Sleep-EDF Expanded Dataset: [Sleep-EDF Dataset](https://physionet.org/content/sleep-edfx/1.0.0/)
-
 ## Table I:  Overall Model Performance Comparison
 
 | Model                               | Acc    | Balanced Acc   | Macro F1                    | 
@@ -51,4 +48,7 @@ Link to PhysioNet Sleep-EDF Expanded Dataset: [Sleep-EDF Dataset](https://physio
 | SVM     | 94.0% | 28.6% | 84.4% | 80.6% | 52.9% |
 | RF      | 95.6% | 28.0% | 84.5% | 82.9% | 66.3% |
 | 1D-CNN  | 98.7% | 37.4% | 88.0% | 86.4% | 77.7% |
+
+## Dataset
+Link to PhysioNet Sleep-EDF Expanded Dataset: [Sleep-EDF Dataset](https://physionet.org/content/sleep-edfx/1.0.0/)
 
